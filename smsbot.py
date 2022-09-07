@@ -29,7 +29,7 @@ class main():
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
                 Version: 1.3
-         Modified by @AbirHasan2005
+         Recoded by @Kageyamatobio
             """)
 
     def send_sms():
