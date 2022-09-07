@@ -2,6 +2,6 @@
 
 Hehehe
 
-t.me/abahzeus
+https://t.me/abahzeus
 
-t.me/kageyamatobio28
+https://t.me/kageyamatobio28
