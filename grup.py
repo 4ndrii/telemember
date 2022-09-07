@@ -27,7 +27,7 @@ def banner():
 {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
             Version: 2.0
-     Recoded by t.me/Kageyamatobio28
+     Recoded by @Kageyamatobio28
         """)
 
 cpass = configparser.RawConfigParser()
@@ -102,7 +102,7 @@ n = 0
 
 for user in users:
     n += 1
-    if n % 80 == 0:
+    if n % 50 == 0:
      time.sleep(900)
     try:
         print("Adding {}".format(user['id']))
