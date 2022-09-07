@@ -2,5 +2,6 @@
 
 Hehehe
 
-T.me/abahzeus
-T.me/kageyamatobio28
+t.me/abahzeus
+
+t.me/kageyamatobio28
