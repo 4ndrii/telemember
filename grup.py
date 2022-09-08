@@ -1,5 +1,5 @@
 #!/bin/env python3
-# Modified by @AbirHasan2005
+# Recoded by @Kageyamatobio28
 # Telegram Group: http://t.me/linux_repo
 # Please give me credits if you use any codes from here.
 
@@ -115,8 +115,8 @@ for user in users:
         else:
             sys.exit("Invalid Mode Selected. Please Try Again.")
         client(InviteToChannelRequest(target_group_entity, [user_to_add]))
-        print("Waiting for 60-180 Seconds ...")
-        time.sleep(random.randrange(60,180))
+        print("Tunggu 2-3 menit untuk menghindari deteksi spam ...")
+        time.sleep(random.randrange(120,180))
     
     except PeerFloodError:
         print(re+"Getting Flood Error from telegram. Script is stopping now. Please try again after some time.")
